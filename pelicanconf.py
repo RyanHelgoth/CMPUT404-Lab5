@@ -1,8 +1,9 @@
 AUTHOR = 'Ryan Helgoth'
 SITENAME = 'CMPUT404-Lab5-Site'
-SITEURL = ''
+SITEURL = 'https://ryanhelgoth.github.io/CMPUT404-Lab5/'
 
 PATH = 'content'
+THEME = 'templates/mytheme'
 
 TIMEZONE = 'America/Edmonton'
 
